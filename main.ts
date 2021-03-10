@@ -389,7 +389,7 @@ let gravity = 0
 let pixelsToMeters = 0
 let invincibilityPeriod = 0
 let hero: Sprite = null
-hero = sprites.create(assets.image`Meera-idleright`, SpriteKind.Player)
+hero = sprites.create(assets.image`Cub1`, SpriteKind.Player)
 // how long to pause between each contact with a
 // single enemy
 invincibilityPeriod = 600
